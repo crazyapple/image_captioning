@@ -1,4 +1,5 @@
 dataset/annotations
 **.ipynb
-!model.ipynb
+!model_coco8.ipynb
 **.py
+training_checkpoints
